@@ -1,0 +1,6 @@
+# disco-invite
+
+plugins:
+  disco_invite_image:
+    default: '/images/envelope.svg'
+    client: ''

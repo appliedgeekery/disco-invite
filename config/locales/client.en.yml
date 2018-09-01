@@ -1,0 +1,7 @@
+# disco-invite
+
+en:
+  admin:
+    site_settings:
+      categories:
+         plugins: "Disco Invite"
