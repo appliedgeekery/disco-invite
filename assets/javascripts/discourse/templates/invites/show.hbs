@@ -4,11 +4,10 @@
 
   <div class="two-col">
     <div class="col-image">
-      <img src="{{{Discourse.SiteSettings.disco_invite_image}}}">
+      <img src="{{this.siteSettings.disco_invite_image}}">
     </div>
 
     <div class="col-form">
-    {{this.siteSettings.disco_invite_image}}
       <p>{{i18n 'invites.invited_by'}}</p>
 
       <p>{{user-info user=invitedBy}}</p>
