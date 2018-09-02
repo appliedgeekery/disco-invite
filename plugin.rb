@@ -1,6 +1,6 @@
 # name: disco-invite
 # about: changes invite form
-# version: 0.2.7
+# version: 0.2.8
 # authors: Rob
 
 
