@@ -3,3 +3,5 @@
 en:
   site_settings:
     disco_invite_image: "Image URL for invite page"
+  invite:
+    welcome_message: "Welcome"
